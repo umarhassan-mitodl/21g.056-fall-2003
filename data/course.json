@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ],
+    [
+      "Society",
+      "European and Russian Studies"
+    ],
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ]
+  ],
+  "legacy_uid": "5ddb85f9-58a6-51b1-917a-3c3483866c22",
+  "instructors": {
+    "content": [
+      "0842a58d-dcca-3167-e080-a90d327f0479"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "13b818ae-a884-1503-9439-e21ba69690dc",
+    "website": "21g-056-visual-histories-german-cinema-1945-to-present-fall-2003"
+  },
+  "course_title": "Visual  Histories: German Cinema 1945 to Present",
+  "hide_download": true,
+  "course_description": "This course is an invitation to German film-making since the end of the Second World War. We investigate how German cinema captured the atmosphere of the immediate post-war years and discuss extensively major works of the \"New German Cinema\" of the Sixties and Seventies. We also look at examples of East Germany's film production and finally observe the very different roads German cinema has been taking from the 1990's into the present.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.056",
+  "course_image_thumbnail": {
+    "content": "b6a03e8c-9569-a253-7506-53aef3c76e96",
+    "website": "21g-056-visual-histories-german-cinema-1945-to-present-fall-2003"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "7989f56c-2872-42ac-857d-812c67b1a706",
+  "site_short_id": "21g.056-fall-2003",
+  "site_url_path": "courses/21g-056-visual-histories-german-cinema-1945-to-present-fall-2003",
+  "title": "Course Metadata"
+}
